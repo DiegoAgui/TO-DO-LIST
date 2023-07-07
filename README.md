@@ -3,7 +3,7 @@
 
 ## Installation
 
-You can clone this repository: git@github.com: git@github.com:git@github.com:DiegoAgui/TO-DO-LIST.git
+You can clone this repository:git@github.com:DiegoAgui/TO-DO-LIST.git
  
 ## Description
 
